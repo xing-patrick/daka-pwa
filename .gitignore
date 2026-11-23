@@ -1,0 +1,5 @@
+# 本地验证用的截图，不进仓库也不发布
+shots/
+
+.DS_Store
+Thumbs.db
